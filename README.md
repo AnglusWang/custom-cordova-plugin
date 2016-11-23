@@ -4,7 +4,7 @@
 ### 1. 插件的安装
 开发工程下执行以下命令导入本插件：
 
-	$ cordova plugin add <插件github地址>
+	$ cordova plugin add https://github.com/AnglusWang/custom-cordova-plugin
 
 已安装插件查看：
 
